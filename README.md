@@ -1,2 +1,3 @@
-# fast-ml-project-3kvy
-A machine learning project for modern development workflows
+# Fast Ml Project 3Kvy
+
+A machine learning project for modern development workflows.
